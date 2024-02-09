@@ -1,14 +1,14 @@
 var noarr=
 [
     '<i class="bi bi-x-circle"></i>',
-    'Please ? <i class="bi bi-x-square"></i>',
-    'Pyaar nahi karti?  <i class="bi bi-emoji-frown"></i>',
-    'Kya hua tera vada?',
-    'Wo kasam wo irada?',
-    'You serious?',
-    '😭',
-    'Momos khilaunga!!',
-    'yar 🥺'
+    'Уверен? <i class="bi bi-x-square"></i>',
+    'Конечно,?  <i class="bi bi-emoji-frown"></i>',
+    'Вы можете пожалеть об этом',
+    'Подумайте об этом еще раз',
+    'jọ̀wọ́ náà',
+    'Emi yoo sọ fun Alhaja ooo😭',
+    'Mo le ṣe eyi lailai',
+    'Ọkàn mi ń dùn mí 🥺'
 ]
 
 var i = 0;
@@ -21,7 +21,7 @@ function success()
 {
     const successChange=document.getElementById('successChange');
     successChange.innerHTML=
-    `<h1 style='text-align:center'>Ok yay !!!</h1>`;
+    `<h1 style='text-align:center'>Yeaaaahhh !!! I love you Muyiwa</h1>`;
     gifimage.innerHTML=
     `<img src='https://c.tenor.com/pFn8y5a7HXEAAAAC/tenor.gif'>`;
 }
